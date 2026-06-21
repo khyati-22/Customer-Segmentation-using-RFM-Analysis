@@ -126,7 +126,7 @@ Customer-Segmentation-RFM
 
 ├── data/
 
-├── notebook/
+├── notebooks/
 
 │ └── customer_segmentation.ipynb
 
@@ -134,7 +134,9 @@ Customer-Segmentation-RFM
 
 ├── README.md
 
-└── requirements.txt
+├── requirements.txt
+
+└── .gitignore
 
 ---
 
