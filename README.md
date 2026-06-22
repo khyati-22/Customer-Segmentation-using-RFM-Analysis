@@ -103,16 +103,6 @@ Customers are grouped into categories such as:
 
 Charts and visualizations are generated to understand customer distribution and revenue contribution across segments.
 
-
-### Customer Segment Distribution
-
-![Customer Distribution](images/Customer_segment_distribution.png)
-
-### Revenue by Segment
-
-![Revenue by Segment](images/Revenue_by_segment.png)
-
-
 ### 7. Business Recommendations
 
 Insights are translated into practical marketing and customer retention strategies.
