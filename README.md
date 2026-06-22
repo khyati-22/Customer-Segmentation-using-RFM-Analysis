@@ -217,3 +217,7 @@ Khyati Kukreja
 MBA Candidate | Finance Analytics & Marketing Analytics
 
 Passionate about transforming data into actionable business insights through analytics, visualization, and strategic decision-making.
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
