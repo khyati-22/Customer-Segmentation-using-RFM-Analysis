@@ -106,7 +106,7 @@ Charts and visualizations are generated to understand customer distribution and 
 
 ### Customer Segment Distribution
 
-![Customer Distribution](images/Customer%20segment%20distribution.png)
+![Customer Distribution](images/Customer_segment_distribution.png)
 
 ### Revenue by Segment
 
