@@ -103,6 +103,16 @@ Customers are grouped into categories such as:
 
 Charts and visualizations are generated to understand customer distribution and revenue contribution across segments.
 
+
+### Customer Segment Distribution
+
+![Customer Segment Distribution](images/Customer_segment_distribution.png)
+
+### Revenue by Segment
+
+![Revenue by Segment](images/Revenue_by_segment.png)
+
+
 ### 7. Business Recommendations
 
 Insights are translated into practical marketing and customer retention strategies.
@@ -134,7 +144,9 @@ Customer-Segmentation-RFM
 
 ├── README.md
 
-└── requirements.txt
+├── requirements.txt
+
+└──.gitignore
 
 ---
 
@@ -181,6 +193,30 @@ Future versions of this project may include:
 * Customer Churn Prediction.
 * Interactive dashboards using Power BI or Tableau.
 * Real-time customer segmentation.
+
+---
+
+## Key Results
+
+* Total Transactions Analyzed: 397,924
+* Total Unique Customers: 4,339
+* Customer Segments Identified:
+
+  * Loyal Customers: 2,051
+  * New Customers: 1,474
+  * Regular Customers: 383
+  * High Value Customers: 346
+  * At Risk Customers: 85
+
+---
+
+### Key Findings
+
+* High Value Customers generated the highest average revenue (£12,318.05).
+* Loyal Customers formed the largest customer segment.
+* New Customers represented a significant growth opportunity.
+* At Risk Customers required targeted retention strategies.
+* RFM Analysis successfully identified customer groups for personalized marketing initiatives.
 
 ---
 
